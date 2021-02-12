@@ -1,0 +1,16 @@
+span strong {
+    padding-right: 5px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+}
+
+.footer > span {
+    font-weight: 300;
+    font-size: 1.1rem;
+}

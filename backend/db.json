@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "14000.99"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": "5000.00"
+    },
+    {
+      "name": "Xiaomi Redmi Note 9",
+      "price": "1799.99",
+      "id": 4
+    }
+  ]
+}
